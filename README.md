@@ -21,7 +21,12 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 **Circuit diagram**
 
 
- 
+
+ <img width="1280" height="1027" alt="image" src="https://github.com/user-attachments/assets/4d863e89-9dbc-4089-97ac-f69da0d57c89" />
+ **TABULAR COLUMN:**
+ <img width="1280" height="822" alt="image" src="https://github.com/user-attachments/assets/c9b69bd7-7b99-4ef9-b0f2-003e89ae64b9" />
+
+
 **PROCEDURE:**
 
 1.	Give connections as per the circuit diagram.
@@ -45,5 +50,10 @@ a)	The voltage V1 is	V.
 b)	The voltage V2 is	V.
 
 c)	The voltage V3 is	V.
+
+**MARK SPLIT UP:**
+<img width="1280" height="763" alt="image" src="https://github.com/user-attachments/assets/e4f2ba55-88f2-4315-87a2-7c7bac7e1a58" />
+
+
 
 
