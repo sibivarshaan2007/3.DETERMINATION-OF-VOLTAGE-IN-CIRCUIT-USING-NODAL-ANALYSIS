@@ -4,7 +4,7 @@
 
 To determine the voltage in the circuit using nodal analysis both theoretically and practically for a given DC circuit.
 
-**APPARATUS REQUIRED:**
+**APPARATUS REQUIRED:** 
 
 1.	Regulated Power supply ( RPS)	(0-30 V)	1
 
